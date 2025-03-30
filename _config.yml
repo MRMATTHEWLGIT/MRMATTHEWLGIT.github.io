@@ -42,9 +42,10 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
+minima:
+  include_custom_head: true
+
 include:
   - _includes/head-custom.html
 
-minima:
-  include_custom_head: true
 
