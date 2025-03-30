@@ -188,7 +188,7 @@ Now within the `custom.css` file, add the following CSS code. This sets-up a mod
 Now go to the folder `_includes` and open the file called `head.html`. Then add the following line of code to link the custom css file you made, `custom.css`. 
 
 ```html
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 ```
 
 ### Step 3: Run Locally To Test:
