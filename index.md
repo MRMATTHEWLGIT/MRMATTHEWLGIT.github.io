@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# A Little About Me 
+I'm a fifth year student at the University of Queensland (UQ) and I am currently studying a dual degree in a Bachelor of Engineering specialising in Mechatronics / Bachelor of Computer Science majoring in Machine Learning. I originally started this blog for an assignment in my Computer Vision and Deep Learning course, ELEC4630, whilst at UQ.
 
-![Image of fast.ai logo](images/logo.png)
+<img src="images/logo.png" alt="My Image" style="display: block; margin: auto;" />
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## My Posts:

@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Matthew's Blog!
-description: My cool description.
+title: Matthew Lockett's Blog!
+description: Join me in exploring everything there is to do with programming and AI.
 github_username: MRMATTHEWLGIT
 
 # Email and twitter are optional:
@@ -41,3 +41,10 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+include:
+  - _includes/head-custom.html
+
+minima:
+  include_custom_head: true
+
